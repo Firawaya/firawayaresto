@@ -183,4 +183,6 @@ footer{
     .titre h3{font-size: 12px;}
     .titre img{width: 220px;}
     .card{grid-column: span 3;}
+    .articles h2{
+        font-size: 14px;
 }
